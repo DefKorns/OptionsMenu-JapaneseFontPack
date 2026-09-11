@@ -1,0 +1,2 @@
+rm -f "$rootfs/etc/options_menu/fonts/NotoSansJP-CJK.ttf"
+rm -f "$rootfs/etc/options_menu/fonts/OFL.txt"
