@@ -1,9 +1,3 @@
----
-Name: OptionsMenu Japanese Font Pack
-Creator: DefKorns
-Category: System
-Version: 1.0.0
----
 
 ## What is this?
 
