@@ -1,6 +1,6 @@
 MOD_CREATOR := DefKorns
-MOD_CATEGORY := System
-MOD_NAME := OptionsMenu Japanese Font Pack
+MOD_CATEGORY := Options Menu - Addon
+MOD_NAME := Options Menu Japanese Font Pack
 MOD_VER ?= $(shell git describe --tags --abbrev=0 2>/dev/null || echo v1.0.0)
 GIT_COMMIT := $(shell git describe --always --dirty=.dirty 2>/dev/null)
 TARGET_NAME = om_japanese_font_pack
