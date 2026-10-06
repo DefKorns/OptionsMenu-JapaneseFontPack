@@ -17,8 +17,9 @@ define inject-readme =
 	"Name: $(MOD_NAME)" \
 	"Creator: $(MOD_CREATOR)" \
 	"Category: $(MOD_CATEGORY)" \
-	"Version: $(MOD_VER)$(if $(GIT_COMMIT), ($(GIT_COMMIT)))" \
+	"Version: $(MOD_VER)" \
 	"Built on: $(shell date +"%A, %d %b %Y - %T")" \
+	"Git commit: $(GIT_COMMIT)" \
 	"---" > mod/readme.md
 
 	sed 1d temp/readme.md >> mod/readme.md
