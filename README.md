@@ -26,6 +26,14 @@ separately keeps OptionsMenu small by default and makes this pack fully
 optional - install it if you want TTF-quality Japanese text, skip it (or
 uninstall it later) if you don't, with no other side effects either way.
 
+## Contributing
+
+Bug reports and ideas are welcome in the [issues](https://github.com/DefKorns/OptionsMenu-JapaneseFontPack/issues), and so are pull requests:
+
+- **Formatting:** [`.editorconfig`](.editorconfig) sets it: UTF-8, LF line endings, a final newline, no trailing whitespace, 4 spaces for C/C++, 2 for shell scripts, tabs only in the Makefile.
+- **Only change what you need:** don't reformat, re-indent or strip whitespace in lines you aren't changing. The **Style** check on pull requests looks only at the lines you add.
+- Everything else follows the Options Menu's [code style](https://github.com/DefKorns/OptionsMenu#code-style).
+
 ## License
 
 `mod/etc/options_menu/fonts/NotoSansJP-CJK.ttf` is Noto Sans JP, SIL Open
