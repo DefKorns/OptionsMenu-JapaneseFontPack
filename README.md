@@ -1,4 +1,4 @@
-# OptionsMenu Japanese Font Pack
+# Options Menu - Japanese Font Pack
 
 Optional companion hmod for [OptionsMenu](https://github.com/DefKorns/OptionsMenu).
 Drops a Japanese-capable TTF font (Noto Sans JP) at
