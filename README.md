@@ -1,5 +1,8 @@
 # Options Menu - Japanese Font Pack
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
+
 Optional companion hmod for [OptionsMenu](https://github.com/DefKorns/OptionsMenu).
 Drops a Japanese-capable TTF font (Noto Sans JP) at
 `/etc/options_menu/fonts/NotoSansJP-CJK.ttf`. OptionsMenu checks for that
